@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there. My name is Ilya Pikulin, I am a C++ developer and an ML engineer.
+
+Some links:
+- blog: https://rdbuf.github.io/
+- LinkedIn: https://www.linkedin.com/in/ilyapikulin
+- email: ilya.pikulin@gmail.com
+- telegram: [rdbuf](t.me/rdbuf)
 
 <!--
 **rdbuf/rdbuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
