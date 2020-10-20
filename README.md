@@ -1,4 +1,4 @@
-Hi there. My name is Ilya Pikulin, I am a C++ developer and ML engineer.
+Hi there. My name is Ilya Pikulin, I am a C++ developer and Data Scientist.
 
 - blog: https://rdbuf.github.io/
 - LinkedIn: https://www.linkedin.com/in/ilyapikulin
