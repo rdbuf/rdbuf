@@ -2,7 +2,7 @@ Hi there. My name is Ilya Pikulin.
 
 - blog: https://rdbuf.github.io/
 - LinkedIn: https://www.linkedin.com/in/ilyapikulin
-- email: ilya.pikulin@gmail.com
+- email: pikulin.is@yandex.ru
 - telegram: https://t.me/rdbuf
 
 <!--
