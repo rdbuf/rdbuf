@@ -1,11 +1,10 @@
-<!--
 Hi there. My name is Ilya Pikulin.
 
 - blog: https://rdbuf.github.io/
 - LinkedIn: https://www.linkedin.com/in/ilyapikulin
 - email: pikulin.is@yandex.ru
 - telegram: https://t.me/rdbuf
--->
+
 
 <!--
 **rdbuf/rdbuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
